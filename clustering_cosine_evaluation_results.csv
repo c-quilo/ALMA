@@ -1,0 +1,11 @@
+Clustering Method,Target,Within-Cluster Cosine Similarity,Between-Cluster Cosine Similarity
+K-Means,catalysis_type,0.4425184428691864,0.300976425409317
+DBSCAN,catalysis_type,,
+Agglomerative,catalysis_type,0.45268598198890686,0.30395227670669556
+GMM,catalysis_type,0.4425184428691864,0.300976425409317
+HDBSCAN,catalysis_type,0.5946500301361084,0.354505717754364
+K-Means,application_theme,0.43504300713539124,0.2995312213897705
+DBSCAN,application_theme,,
+Agglomerative,application_theme,0.4502617418766022,0.30112171173095703
+GMM,application_theme,0.43504300713539124,0.2995312213897705
+HDBSCAN,application_theme,0.5946500301361084,0.354505717754364
